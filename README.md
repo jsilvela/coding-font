@@ -2,6 +2,7 @@ coding-font
 ===========
 
 A coding font made from Fira Sans, with punctuation, zero and capital-i taken from Fira Mono.
+The Fira fonts: https://github.com/mozilla/Fira
 
 I used FontForge on Debian to do this. I don’t really know my way around that, so any
 help will be much welcome.
